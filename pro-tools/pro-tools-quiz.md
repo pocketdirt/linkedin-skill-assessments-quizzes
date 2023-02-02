@@ -121,3 +121,15 @@
 - [ ] Bus 1-2 is in expanded sends view, while Bus 3-4 is not.
 - [ ] Bus 1-2 is a special pre-fader send.
 - [ ] Bus 1-2 is a VCA track.
+
+#### Q17. What are MIDI tracks for?
+- [ ] playing virtual guitar
+- [x] sending and receiving MIDI events to and from an attached MIDI hardware device
+- [ ] retrieving 16-bit audio files
+- [ ] working with older five-pin MIDI devices only
+
+#### Q18. What does the Object Grabber allow you to do?
+ - [ ] select audio and volume breakpoints together
+ - [ ] select only MIDI objects
+ - [ ] select all kinds of automation
+ - [x] select noncontiguous clips
